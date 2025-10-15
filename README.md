@@ -51,7 +51,7 @@
 
 ---
 
-## 🚀 Langage and Tools 🚀
+## 🚀 Langages And Tools 🚀
 
 <table align="center">
   <tbody>
@@ -99,8 +99,8 @@
         <br><code>React</code>
       </td>
       <td align="center" width="90">
-        <a target="_blank" href="https://skillicons.dev/icons?i=react">
-          <img src="https://skillicons.dev/icons?i=reactnative" width="45" height="45">
+        <a target="_blank" href="https://techstack-generator.vercel.app/react-icon.svg">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55">
         </a>
         <br><code>React Native</code>
       </td>
