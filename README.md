@@ -191,10 +191,9 @@
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Mickael-Andjtv&show_icons=true&theme=onedark" alt="GitHub Stats">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mickael-Andjtv&layout=compact&theme=onedark" alt="Top Languages">
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Mickael-Andjtv&theme=github" alt="Activity Graph">
-  <img width="385px" src="https://streak-stats.demolab.com/?user=Mickael-Andjtv&theme=dark" alt="Streak">
+  <img width="385px" src="https://streak-stats.demolab.com/?user=Mickael-Andjtv&theme=dark" alt="GitHub Streak">
   
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mickael-Andjtv&theme=dark)](https://git.io/streak-stats)
 ---
 
 ## 🏆 My Rewards
