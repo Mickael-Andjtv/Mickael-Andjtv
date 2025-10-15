@@ -1,12 +1,12 @@
-<h1 align="center">Hi, I'm Mickaël Joseph 👋</h1>
+<h1 align="center">Hello, I'm Mickaël Joseph 👋</h1>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mickaelcode.Mickaelcode&left_color=royalblue&right_color=black" alt="Visitor Count"/>
 </p>
-<h3 align="center">A beginner in programming, always learning and improving</h3>
+<h3 align="center">A beginner developer, search and curious for everything</h3>
 
-❤️ I have a passion for JavaScript/TypeScript (React) for frontend development, and Node.js (Nest and Express) with PostgreSQL for backend development, basic knowledge for python and rust
+❤️ I have a passion for JavaScript/TypeScript (React) for frontend development, and Node.js (Nest and Express) or Python (FastAPi) with PostgreSQL for backend development
 
-✨ I study: JavaScript, TypeScript, Node.js, React, Nest.js,python and Rust 
+✨ I'm interrested in : JavaScript, TypeScript, Node.js, React, Nest.js,python , and Java
 
 ---
 ## Feeding...
@@ -26,7 +26,7 @@
 
 ## About Me
 - 😄 **Current Status**: Software Engineering Student (Third Year)  
-- 🔭 **Looking to Collaborate**: I'm open to working on projects with you! 😁  
+- 🔭 **Looking to Collaborate**: I'm open and very interrested to work or collaborate  with you 😁  
 - 📫 **How to Contact Me**:<div>
   <a href="mailto:mickaelandriana06@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23E91E63?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="vertical-align: middle; margin-left: 10px;" />
@@ -40,14 +40,13 @@
 ---
 
 ## My Stack
-- **3 months experience**: React, Node.js, Nest.js, Express.js  
-- **Beginner**: Python
-- **Passionate about**: APIs, especially RESTful APIs  
+- **2 years experience**: React, Node.js, Nest.js, Express.js , Python 
+- **Passionate about**: APIs, especially RESTful APIs and Frontend Developement
 - **Technologies**:  
-  - Frontend: HTML/CSS, JavaScript/TypeScript, React
-  - Backend: Node.js, Nest.js, Express.js  
+  - Frontend:JavaScript/TypeScript, React, React Native, NextJs, Tailwind Csst
+  - Backend: Node.js, Nest.js, Express.js , FastApi
   - Databases: SQL, MySQL, PostgreSQL, SQLite  
-  - Tools: Git, LocalStorage, JWT, Prisma
+  - Tools: Git, LocalStorage, JWT, Prisma, SqlModel
 
 ---
 
