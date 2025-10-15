@@ -36,7 +36,7 @@
   </a>
 - 💬 **Ask Me About**: Frontend/Backend development, RESTful APIs, or tech in general!  
 
-<img align="right" src="https://octodex.github.com/images/stormtroopocat.png" width="300" alt="Stormtrooper Octocat">
+<img align="right" src="https://octodex.github.com/images/jetpacktocat.png" width="300" alt="Jetpack Octocat">
 
 ---
 
