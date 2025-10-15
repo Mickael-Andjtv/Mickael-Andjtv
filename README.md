@@ -51,26 +51,138 @@
 
 ---
 
-## Languages and Tools
-<div align="left">
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" /></code>
-  <code><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="FastAPI logo" /></code>
-  <code><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL logo" /></code>
-  <code><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MySQL logo" /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" /></code>
-  <code><img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub logo" /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="NPM logo" /></code>
-  <code><img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="Ubuntu logo" /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="Red Hat logo" /></code>
-</div>
+## 🚀 Langage and Tools 🚀
+
+<table align="center">
+  <tbody>
+    <tr>
+      <td align="center" width="90">
+        <a target="_blank" href="https://techstack-generator.vercel.app/js-icon.svg">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55">
+        </a>
+        <br><code>JavaScript</code>
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" href="https://skillicons.dev/icons?i=nodejs">
+          <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45">
+        </a>
+        <br><code>Node.js</code>
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" href="https://techstack-generator.vercel.app/ts-icon.svg">
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55">
+        </a>
+        <br><code>TypeScript</code>
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" href="https://techstack-generator.vercel.app/python-icon.svg">
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55">
+        </a>
+        <br><code>Python</code>
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" href="https://skillicons.dev/icons?i=java">
+          <img src="https://skillicons.dev/icons?i=java" width="45" height="45">
+        </a>
+        <br><code>Java</code>
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" href="https://skillicons.dev/icons?i=rust">
+          <img src="https://skillicons.dev/icons?i=rust" width="45" height="45">
+        </a>
+        <br><code>Rust</code>
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" href="https://techstack-generator.vercel.app/react-icon.svg">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55">
+        </a>
+        <br><code>React</code>
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" href="https://skillicons.dev/icons?i=react">
+          <img src="https://skillicons.dev/icons?i=reactnative" width="45" height="45">
+        </a>
+        <br><code>React Native</code>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="90">
+        <a target="_blank" href="https://skillicons.dev/icons?i=nextjs">
+          <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45">
+        </a>
+        <br><code>Next.js</code>
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" href="https://skillicons.dev/icons?i=nestjs">
+          <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45">
+        </a>
+        <br><code>NestJS</code>
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" href="https://skillicons.dev/icons?i=express">
+          <img src="https://skillicons.dev/icons?i=express" width="45" height="45">
+        </a>
+        <br><code>Express</code>
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" href="https://skillicons.dev/icons?i=fastapi">
+          <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45">
+        </a>
+        <br><code>FastAPI</code>
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" href="https://techstack-generator.vercel.app/restapi-icon.svg">
+          <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" height="55">
+        </a>
+        <br><code>REST API</code>
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" href="https://skillicons.dev/icons?i=postgres">
+          <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45">
+        </a>
+        <br><code>PostgreSQL</code>
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" href="https://techstack-generator.vercel.app/mysql-icon.svg">
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55">
+        </a>
+        <br><code>MySQL</code>
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" href="https://skillicons.dev/icons?i=git">
+          <img src="https://skillicons.dev/icons?i=git" width="45" height="45">
+        </a>
+        <br><code>Git</code>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="90">
+        <a target="_blank" href="https://skillicons.dev/icons?i=github">
+          <img src="https://skillicons.dev/icons?i=github" width="45" height="45">
+        </a>
+        <br><code>GitHub</code>
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" href="https://skillicons.dev/icons?i=linux">
+          <img src="https://skillicons.dev/icons?i=linux" width="45" height="45">
+        </a>
+        <br><code>Linux</code>
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" href="https://skillicons.dev/icons?i=tailwind">
+          <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45">
+        </a>
+        <br><code>Tailwind</code>
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" href="https://techstack-generator.vercel.app/docker-icon.svg">
+          <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65">
+        </a>
+        <br><code>Docker</code>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
