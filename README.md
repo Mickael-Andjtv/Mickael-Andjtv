@@ -194,12 +194,6 @@
   <img width="385px" src="https://streak-stats.demolab.com/?user=Mickael-Andjtv&theme=dark" alt="GitHub Streak">
   
 </div>
----
-
-## 🏆 My Rewards
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mickael-Andjtv&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ## 🌐 Connect With Me
 <p align="left">
