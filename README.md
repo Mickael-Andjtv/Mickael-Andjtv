@@ -1,13 +1,13 @@
-# 👋 AKORY ABY, I'm Mickaël Joseph
+# 👋 HELLO, I'm Mickaël Joseph
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mickaelcode.Mickaelcode&left_color=royalblue&right_color=black" alt="Visitor Count"/>
 </p>
 <h3 align="center">A passionate beginner developer, curious and eager to learn</h3>
 
-❤️ **I love building with**: JavaScript/TypeScript (React) for frontend, and Node.js (Nest.js, Express) or Python (FastAPI) with PostgreSQL for backend.
+❤️ **I love building with** : Python for Learning AI, JavaScript/TypeScript (Next&React) for frontend, and Node.js (Nest.js, Express) or FastAPI with PostgreSQL for backend.
 
-✨ **Interests**: JavaScript, TypeScript, Node.js, React, Nest.js, Python, Java, and exploring new tech stacks.
+✨ **Interests** : Python, JavaScript, TypeScript, Node.js, Next, React, Nest.js, Java, and exploring new tech stacks.
 
 ---
 
@@ -28,23 +28,23 @@
 ---
 
 ## 🙋‍♂️ About Me
-- 😄 **Current Status**: Third-year Software Engineering student  
-- 🔭 **Collaboration**: Excited to work on open-source projects or collaborate with developers!  
+- 😄 **Current Status**: Third-year Software Engineering student and Master 1 in AI Engineering
+- 🔭 **Collaboration**: Excited to work on open-source projects and collaborate with other developers!  
 - 📫 **Contact Me**:  
   <a href="mailto:mickaelandriana06@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23E91E63?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="vertical-align: middle; margin-left: 10px;" />
   </a>
-- 💬 **Ask Me About**: Frontend/Backend development, RESTful APIs, or tech in general!  
+- 💬 **Ask Me About**:AI/ML, LLMs, frontend & backend development, RESTful APIs, or tech in general! 
 
 <img align="right" src="https://octodex.github.com/images/jetpacktocat.png" width="300" alt="Jetpack Octocat">
 
 ---
 
 ## 💻 My Tech Stack
-- **Experience (2 years)**: React, Node.js, Nest.js, Express.js, Python  
-- **Passionate about**: Crafting RESTful APIs and building engaging frontend experiences  
+- **Experience (3 years)**: Next, React, Node.js, Nest.js, Express.js, Python, FastAPI 
+- **Passionate about**:AI, crafting RESTful APIs, and building engaging frontend experiences. 
 - **Technologies**:  
-  - **Frontend**: JavaScript, TypeScript, React, React Native, Next.js, Tailwind CSS  
+  - **Frontend**: JavaScript, TypeScript, Next.js, React, React Native, Tailwind CSS  
   - **Backend**: Node.js, Nest.js, Express.js, FastAPI  
   - **Databases**: SQL, MySQL, PostgreSQL, SQLite  
   - **Tools**: Git, LocalStorage, JWT, Prisma, SQLModel  
@@ -56,6 +56,12 @@
 <table align="center">
   <tbody>
     <tr>
+       <td align="center" width="90">
+        <a target="_blank" href="https://www.python.org/">
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55">
+        </a>
+        <br><code>Python</code>
+      </td>
       <td align="center" width="90">
         <a target="_blank" href="https://www.javascript.com/">
           <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55">
@@ -75,12 +81,6 @@
         <br><code>TypeScript</code>
       </td>
       <td align="center" width="90">
-        <a target="_blank" href="https://www.python.org/">
-          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55">
-        </a>
-        <br><code>Python</code>
-      </td>
-      <td align="center" width="90">
         <a target="_blank" href="https://www.java.com/">
           <img src="https://skillicons.dev/icons?i=java" width="45" height="45">
         </a>
@@ -91,6 +91,12 @@
           <img src="https://skillicons.dev/icons?i=rust" width="45" height="45">
         </a>
         <br><code>Rust</code>
+      </td>
+         <td align="center" width="90">
+        <a target="_blank" href="https://nextjs.org/">
+          <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45">
+        </a>
+        <br><code>Next.js</code>
       </td>
       <td align="center" width="90">
         <a target="_blank" href="https://reactjs.org/">
@@ -106,12 +112,6 @@
       </td>
     </tr>
     <tr>
-      <td align="center" width="90">
-        <a target="_blank" href="https://nextjs.org/">
-          <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45">
-        </a>
-        <br><code>Next.js</code>
-      </td>
       <td align="center" width="90">
         <a target="_blank" href="https://nestjs.com/">
           <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45">
